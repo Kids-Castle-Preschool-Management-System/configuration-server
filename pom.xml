@@ -62,7 +62,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>kids-castle-config-server</finalName>
+		<finalName>config-server</finalName>
 	</build>
 
 </project>
